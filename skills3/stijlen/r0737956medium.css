@@ -6,6 +6,11 @@
     font-family: 'Roboto', sans-serif;
 }
 
+nav a {
+    background-color: #eee;
+    color: #333;
+}
+
 #image {
     display: none;
 }
