@@ -1,0 +1,36 @@
+* {
+    padding: 0;
+    margin: 0;
+    background-color: #333;
+    color: #eee;
+    font-family: 'Roboto', sans-serif;
+}
+
+#image {
+    display: none;
+}
+
+#image2 {
+    height: 200px;
+    background-position: center center;
+    background-repeat: no-repeat;
+    display: contents;
+}
+
+#image3 {
+    display: none;
+}
+
+
+#primair {
+    display: none;
+}
+
+#luxe {
+    display: none;
+}
+
+#gaming {
+    display: contents;
+
+}

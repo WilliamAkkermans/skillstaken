@@ -1,1 +1,39 @@
+* {
+    padding: 0;
+    margin: 0;
+    background-color: #dcdcdc;
+    color: #2f4f4f;
+}
 
+h2 {
+    font-family: 'Lora', serif;
+}
+
+#image {
+
+    display: none;
+}
+
+#image2 {
+    display: none;
+}
+
+#image3 {
+    height: 200px;
+    background-position: center center;
+    background-repeat: no-repeat;
+    display: contents;
+}
+
+
+#gaming {
+    display: none;
+}
+
+#primair {
+    display: none;
+}
+
+#luxe {
+    display: contents;
+}
